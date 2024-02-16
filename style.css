@@ -1,0 +1,9 @@
+.calculetor{
+    display: grid;
+    grid-template-columns: (200);
+    grid-template-rows: 20px 20px 20px;
+}
+.nav-li{
+    text-shadow: 3px 2px 4px black;
+    color: aliceblue;
+}
